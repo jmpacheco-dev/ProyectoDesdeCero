@@ -1,13 +1,16 @@
 * {
   background-color: var(--second-bg-color);
 }
+
 :root {
   --bg-color: ;
   --second-bg-color: #323946;
   --text-color: ;
   --main-color: ;
 }
-
+body {
+  background-image: url(/img/24254381_342715559472928_4746893749274017792_n.jpg);
+}
 .container-footer {
   display: flex;
   justify-content: center;
