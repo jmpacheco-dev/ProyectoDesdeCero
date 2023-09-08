@@ -13,3 +13,8 @@
   justify-content: center;
   padding-top: 100%;
 }
+.container-nav {
+  display: flex;
+  justify-content: flex-end;
+  padding-bottom: 20px;
+}
